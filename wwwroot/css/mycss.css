@@ -1,0 +1,16 @@
+﻿label {
+    font-size: 20px;
+    color: darkgreen;
+    width: 120px;
+    display: inline-block;
+}
+
+container {
+    max-width: 500px;
+    margin: auto;
+}
+
+page{
+    justify-content: center;
+    text-align: center;
+}
